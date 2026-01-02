@@ -1,0 +1,9 @@
+Spars:
+
+(1) 8x500 (main wing spar)
+(1) 4x420 (secondary wing spar)
+(4) 2x200 (wingtip support)
+(2) 2x120 (vtail hinge)
+
+Feel free to use spare filament as a replacement for the 2mm spars
+Feel free to use wood dowel instead of carbon tube as main wing spar

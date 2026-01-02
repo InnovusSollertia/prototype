@@ -1,0 +1,50 @@
+\t (00:00:04) allegro 24.1 S005 (4301626) [6/2/2025] Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Wed Sep  3 17:02:46 2025
+\t (00:00:04)         Host=DESKTOP-D851ENJ User=Prometheus Pid=9660 CPUs=12
+\t (00:00:04) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj D:\PROJECTS\DEVICES\STLINK_V2\STLINK.opj D:\PROJECTS\DEVICES\STLINK_V2\allegro\stlink.brd
+\t (00:00:04) 
+\t (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Loading context "C:/Cadence/SPB_24.1/share/pcb/etc/FloWare/skill/allegro/floware.cxt"
+\t (00:00:04) FloWare version: 24.4.01 Oct 2024
+\t (00:00:04) Initializing modules....
+\t (00:00:04) Registering Floware menu...
+\t (00:00:05) Opening existing design...
+\i (00:00:08) fillin yes 
+\d (00:00:09) Design opened: D:/PROJECTS/DEVICES/STLINK_V2/allegro/stlink.brd
+\i (00:00:09) trapsize 11467
+\i (00:00:09) trapsize 11786
+\i (00:00:09) trapsize 11880
+\i (00:00:09) trapsize 13107
+\i (00:00:09) trapsize 13107
+\t (00:00:09) > Sending response DoneOpenBoard
+\t (00:00:09) Loading NV GPU Plugin
+\i (00:00:10) generaledit 
+\i (00:00:16) open 
+\e (00:00:16) Do you want to save the changes you made to stlink.brd?
+\i (00:00:18) fillin no 
+\i (00:00:21) fillin "stlink.brd"
+\t (00:00:21) Opening existing design...
+\i (00:00:22) fillin yes 
+\i (00:00:23) trapsize 13107
+\t (00:00:23) > Sending response DoneOpenBoard
+\d (00:00:23) Design opened: D:/PROJECTS/DEVICES/STLINK_V2/allegro/stlink.brd
+\i (00:00:23) generaledit 
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 148.3689 90.4660
+\i (00:00:23) trapsize 13107
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 148.3689 90.4660
+\i (00:00:23) trapsize 13107
+\i (00:00:23) zoom out 1 
+\i (00:00:23) setwindow pcb
+\i (00:00:23) zoom out 148.3689 90.4660
+\i (00:00:23) trapsize 13107
+\i (00:00:25) open 
+\i (00:00:33) fillin "D:/PROJECTS/DEVICES/vmxpansion_v0/sxpn.brd"
+\i (00:00:33) cd "D:/PROJECTS/DEVICES/vmxpansion_v0"
+\t (00:00:33) Opening existing design...
+\i (00:00:34) trapsize 741
+\t (00:00:34) > Sending response DoneOpenBoard
+\t (00:00:34)     Journal end - Wed Sep  3 17:03:16 2025

@@ -1,0 +1,166 @@
+INFO: Reading report definition file 'C:/Cadence/SPB_25.1/share/pcb/signal/reports.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Reading report definition file 'C:/Cadence/SPB_25.1/share/pcb/signal/custom_rep.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Loaded existing interconnect file 'D:\Projects\devices\stlink_v3\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\SPB_25.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_0S_1R_1
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaakd16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_2
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaake16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_3
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaakf16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_4
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaakg16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_5
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaakh16568.in" 0.00127
+INFO: Using SigNoise run directory 'D:/Projects/devices/stlink_v3/allegro/signoise.run'
+WARNING: Unable to determine fastest driver on xnet '3 ST-LINKV3_OPEN D15'
+WARNING: Unable to determine fastest driver on xnet '3 ST-LINKV3_OPEN D15'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN L3'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN L3'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN NRST'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN NRST'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN R4'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN R4'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN A7'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN A7'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN C5'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN C5'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN D12'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN D12'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN F13'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN F13'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN J1'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN J1'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN J15'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN J15'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN L4'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN L4'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN M10'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN M10'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN N12'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN N12'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN PA0'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN PA0'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN PB1'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN PB1'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN R10'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN R10'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN R9'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN R9'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN SWDIO/PA13'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN SWDIO/PA13'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN L2'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN L2'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN SWCLK/PA14'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN SWCLK/PA14'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN M11'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN M11'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN R6'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN R6'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN DN'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN DN'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN DP'
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN DP'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN C10'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN C10'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN LINK_TX'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN LINK_TX'
+INFO: Field Solver bem2d for STL_1S_1R_6
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaami16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_7
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamj16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_8
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamk16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_9
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaml16568.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_10
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamm16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_11
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamn16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_12
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamo16568.in" 0.00127
+INFO: FSvia NarrowBand generation for VIA_ST-LINKV3_OPEN_VIA_L1A0W1270L7An90W1270 at 0.01 GHz.
+INFO: Unsupported structure found in via VIA_ST-LINKV3_OPEN_VIA_L1A0W1270L7An90W1270 for generating NarrowBandVia model. Switched to Closed Form model.
+INFO: Field Solver bem2d for STL_0S_1R_13
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamq16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_14
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamr16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_15
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaams16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_16
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamt16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_17
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamu16568.in" 0.00127
+INFO: FSvia NarrowBand generation for VIA_ST-LINKV3_OPEN_VIA_L1A0W1270L7A180W1270 at 0.01 GHz.
+INFO: Unsupported structure found in via VIA_ST-LINKV3_OPEN_VIA_L1A0W1270L7A180W1270 for generating NarrowBandVia model. Switched to Closed Form model.
+INFO: Field Solver bem2d for STL_0S_1R_18
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamw16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_19
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamx16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_20
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamy16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_21
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaamz16568.in" 0.00127
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN C10'
+WARNING: Unable to determine fastest driver on xnet '2 ST-LINKV3_OPEN C10'
+INFO: Field Solver bem2d for STL_0S_1R_22
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaana16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_23
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanb16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_24
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanc16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_25
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaand16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_26
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaane16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_27
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanf16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_28
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaang16568.in" 0.00127
+INFO: FSvia NarrowBand generation for VIA_ST-LINKV3_OPEN_VIA_L1A0W1270L1A90W1270L7A180W1270 at 0.01 GHz.
+INFO: Unsupported structure found in via VIA_ST-LINKV3_OPEN_VIA_L1A0W1270L1A90W1270L7A180W1270 for generating NarrowBandVia model. Switched to Closed Form model.
+INFO: FSvia NarrowBand generation for VIA_ST-LINKV3_OPEN_VIA_L1A0W1270L7An135W1270 at 0.01 GHz.
+INFO: Unsupported structure found in via VIA_ST-LINKV3_OPEN_VIA_L1A0W1270L7An135W1270 for generating NarrowBandVia model. Switched to Closed Form model.
+INFO: Field Solver bem2d for STL_1S_1R_29
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanj16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_30
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaank16568.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_31
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanl16568.in" 0.00127
+WARNING: Unable to determine fastest driver on xnet 'ST-LINKV3_OPEN SWCLK/PA14'
+INFO: Field Solver bem2d for STL_0S_1R_32
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanm16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_33
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaann16568.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_34
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaano16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_35
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanp16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_36
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanq16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_37
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanr16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_38
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaans16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_39
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaant16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_40
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanu16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_41
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanv16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_42
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanw16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_43
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanx16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_44
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaany16568.in" 0.00127
+INFO: Field Solver bem2d for STL_0S_1R_45
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaanz16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_46
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaoa16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_47
+INFO: Executing command: bem2d 0 "C:/Users/PROMET~1/AppData/Local/Temp/#Taaaaob16568.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_48

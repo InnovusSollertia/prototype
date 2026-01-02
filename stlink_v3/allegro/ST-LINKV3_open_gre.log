@@ -1,0 +1,58 @@
+! Log file started at 2:5:56 10/6/2025 
+INFO (SPGRE-16): Strategy file Date: May-16-2019
+INFO (SPGRE-16): Strategy file Version: 17.2
+WARNING (SPGRE-1): No route keepin found.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer BOTTOM is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer POWER is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer TOP is 0. Primary Gap is 0.
+INFO (SPGRE-16): Status: Routing initialization completed successfully
+
+INFO (SPGRE-16): CommandStart AiDT ***********************************************
+INFO (SPGRE-16):  
+ERROR (SPGRE-31): Operation aborted. Cline is Fixed. Unfix Cline or select another Cline. :(186.4360,273.0500)-(191.4280,273.0500),TOP, Net +3V3
+INFO (SPGRE-16): ----> Command Processing Stopped due to errors
+INFO (SPGRE-16): Status: Auto Delay Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 0
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.0000 millimeters
+INFO (SPGRE-16):   Routed length of scheduled rats = 0.0000 millimeters
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 469303 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Errors encountered. Command: 1, Internal: 0
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Timing constraints: 0, Timing violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net +3V3 from T(186.4360, 273.0500) - Pin LED1.1(191.4280, 273.0500) on TOP
+INFO (SPGRE-16):   ----: Rat J3.3 - LED1.1 : No Timing Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiDT *************************************************
+INFO (SPGRE-16): Strategy file Date: May-16-2019
+INFO (SPGRE-16): Strategy file Version: 17.2
+WARNING (SPGRE-1): No route keepin found.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer BOTTOM is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer POWER is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer GND is 0. Primary Gap is 0.
+WARNING (SPGRE-15): Constraint Set DEFAULT: Neck Gap on layer TOP is 0. Primary Gap is 0.
+INFO (SPGRE-16): Status: Routing initialization completed successfully
+
+INFO (SPGRE-16): CommandStart AiPT ***********************************************
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Status: Auto Phase Tune completed normally
+INFO (SPGRE-16):   Number of rats scheduled = 0
+INFO (SPGRE-16):   Number of electrical violations on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraints on scheduled rats = 0
+INFO (SPGRE-16):   Number of timing constraint violations on scheduled rats = 0
+INFO (SPGRE-16):   DiffPair Phase Mismatch = 0.0000 millimeters
+INFO (SPGRE-16):   Routed length of scheduled rats = 0.0000 millimeters
+INFO (SPGRE-16):   Execution time = 0 seconds
+INFO (SPGRE-16):   Memory currently in use = 499810 KB
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Clines selected: 1, Rats processed: 1, Phase constraints: 0, Phase violations: 0, Outside ideal range: 0
+INFO (SPGRE-16):  
+INFO (SPGRE-16): Cline on net 0 from Pin C6.1(197.6120, 262.2040) - Pin R5.2(197.5460, 269.7480) on TOP
+INFO (SPGRE-16):   ----: Rat C6.1 - R5.2 : No Phase Constraints
+INFO (SPGRE-16):  
+INFO (SPGRE-16): CommandEnd AiPT *************************************************

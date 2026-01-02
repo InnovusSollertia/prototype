@@ -1,0 +1,59 @@
+\t (00:00:09) allegro 25.1 P001 (4349869) [9/14/2025] Windows SPB 64-bit Edition
+\t (00:00:09)     Journal start - Fri Oct 10 17:37:49 2025
+\t (00:00:09)         Host=DESKTOP-D851ENJ User=Prometheus Pid=21052 CPUs=12
+\t (00:00:09) CmdLine= C:\Cadence\SPB_25.1\tools\bin\allegro.exe
+\t (00:00:09) 
+\t (00:00:10) Loading axlcore.cxt 
+\t (00:00:11) Opening existing design...
+\d (00:00:11) Design opened: D:/Projects/devices/stlink_v3/allegro/ST-LINKV3_open.brd
+\i (00:00:12) trapsize 11303
+\i (00:00:12) trapsize 12111
+\i (00:00:12) trapsize 12363
+\i (00:00:12) trapsize 16214
+\i (00:00:12) trapsize 16214
+\t (00:00:13) > Sending response DoneOpenBoard
+\t (00:00:13) Loading NV GPU Plugin
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:13) QtSignal Modes
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:13) QtSignal "Board Outline  (0/5)" "Create  (0/1)" 0 "|" Manual
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:13) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:13) QtSignal 0 "|" Polygon
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:13) QtSignal 0 "|" "IPC-2581"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:13) QtSignal 0 "|" Testprep
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:13) QtSignal Manual
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:13) QtSignal "Display Status"
+\i (00:00:13) trapsize 5224
+\i (00:00:19) updateport SearchPane
+\i (00:00:19) placementedit 
+\i (00:00:20) open 
+\i (00:00:21) fillin "menu_cancel"
+\i (00:00:21) placementedit 
+\i (00:00:25) opencd D:/Projects/devices/rpt/allegro/rpt.brd 
+\t (00:00:26) Loading consmgr.cxt 
+\t (00:00:26) Loading acns_formula.cxt 
+\t (00:00:26) Opening existing design...
+\i (00:00:26) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:00:26) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:00:28) setwindow form.mini
+\i (00:00:28) FORM mini tree  'Components by refdes' 
+\i (00:00:28) setwindow pcb
+\i (00:00:28) trapsize 7922
+\t (00:00:28) > Sending response DoneOpenBoard
+\t (00:00:28)     Journal end - Fri Oct 10 17:38:07 2025

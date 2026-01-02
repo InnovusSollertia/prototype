@@ -1,0 +1,1450 @@
+\t (00:00:34) allegro 24.1 S005 (4301626) [6/2/2025] Windows SPB 64-bit Edition
+\t (00:00:34)     Journal start - Wed Sep  3 17:03:16 2025
+\t (00:00:34)         Host=DESKTOP-D851ENJ User=Prometheus Pid=9660 CPUs=12
+\t (00:00:34) CmdLine= C:\Cadence\SPB_24.1\tools\bin\allegro.exe -mpssession Prometheus -proj D:\PROJECTS\DEVICES\STLINK_V2\STLINK.opj D:\PROJECTS\DEVICES\STLINK_V2\allegro\stlink.brd
+\t (00:00:34) 
+\d (00:00:34) Design opened: D:/PROJECTS/DEVICES/vmxpansion_v0/sxpn.brd
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 3 "|" "Constraints  (1/6)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Constraints  (1/6)" 0 "|" +
+\i (00:00:34) QtSignal Modes
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:34) QtSignal "Board Outline  (0/5)" 0 "|" "Create (Complete)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (0/8)" +
+\i (00:00:34) QtSignal 0 "|" "Board Outline  (1/5)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 1 "|" "Database Preparation  (1/8)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Database Preparation  (1/8)" +
+\i (00:00:34) QtSignal "Board Outline  (1/5)" "Create (Complete)" 1 "|" Automatically
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (0/8)" 0 +
+\i (00:00:34) QtSignal "|" "Shapes  (1/4)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 4 "|" "Interconnect  (1/8)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Interconnect  (1/8)" "Shapes  (1/4)" +
+\i (00:00:34) QtSignal 0 "|" Polygon
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 6 "|" "Manufacturing Deliverables  (1/6)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Deliverables  (1/6)" +
+\i (00:00:34) QtSignal 0 "|" "IPC-2581"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 5 "|" "Manufacturing Preparation  (1/5)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Manufacturing Preparation  (1/5)" +
+\i (00:00:34) QtSignal 0 "|" Testprep
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 2 "|" "Placement  (1/4)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Placement  (1/4)" 0 "|" +
+\i (00:00:34) QtSignal Manual
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (1/3)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (1/3)" 0 "|" "Design Parameters"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 0 "|" "Setup  (2/3)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Setup  (2/3)" 1 "|" Grids
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged 7 "|" "Utilities  (1/8)"
+\i (00:00:34) QtSignal CWorkFlowWidget CWorkFlowWidget_tree dataChanged "Utilities  (1/8)" 0 "|" +
+\i (00:00:34) QtSignal "Display Status"
+\i (00:00:34) generaledit 
+\i (00:00:36) roam start
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -48
+\i (00:00:36) roam x -32
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -32
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -32
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -32
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -32
+\i (00:00:36) roam y -16
+\i (00:00:36) roam x -32
+\i (00:00:36) roam y -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y -16
+\i (00:00:36) roam x -32
+\i (00:00:36) roam y -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam x -16
+\i (00:00:36) roam y -16
+\i (00:00:36) roam end
+\i (00:00:36) zoom in 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom in 152.8608 386.9215
+\i (00:00:36) trapsize 370
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 152.8830 386.8697
+\i (00:00:36) trapsize 741
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 152.8831 386.8697
+\i (00:00:36) trapsize 1481
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 152.8831 386.8697
+\i (00:00:37) trapsize 2962
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 152.8831 386.8698
+\t (00:00:37) Grids are drawn 0.5080, 0.5080 apart for enhanced viewing.
+\i (00:00:37) trapsize 5925
+\i (00:00:37) roam start
+\i (00:00:37) roam x -16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam x -32
+\i (00:00:37) roam x -16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam x -32
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -32
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 32
+\i (00:00:37) roam x -16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -32
+\i (00:00:37) roam y 16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam y 16
+\i (00:00:37) roam x -32
+\i (00:00:37) roam y 16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam x -16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam y 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam x 16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam y -16
+\i (00:00:38) roam end
+\i (00:00:39) zoom out 1 
+\i (00:00:39) setwindow pcb
+\i (00:00:39) zoom out 136.1528 343.0483
+\t (00:00:39) Grids are drawn 1.0160, 1.0160 apart for enhanced viewing.
+\i (00:00:39) trapsize 11850
+\i (00:00:40) roam start
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x 32
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x 32
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x 16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam x -16
+\i (00:00:40) roam end
+\i (00:00:41) zoom in 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom in 73.2310 416.6324
+\t (00:00:41) Grids are drawn 0.5080, 0.5080 apart for enhanced viewing.
+\i (00:00:41) trapsize 5925
+\i (00:00:42) roam start
+\i (00:00:42) roam x 16
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam x 32
+\i (00:00:42) roam y 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 32
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam x 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam y 32
+\i (00:00:42) roam y 32
+\i (00:00:42) roam y 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam y 16
+\i (00:00:42) roam end
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out 100.7223 338.0714
+\t (00:00:42) Grids are drawn 1.0160, 1.0160 apart for enhanced viewing.
+\i (00:00:42) trapsize 11850
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 56.1675 390.6840
+\t (00:00:43) Grids are drawn 0.5080, 0.5080 apart for enhanced viewing.
+\i (00:00:43) trapsize 5925
+\i (00:00:44) roam start
+\i (00:00:44) roam x 16
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y -32
+\i (00:00:44) roam x 16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam y -16
+\i (00:00:44) roam end
+\i (00:00:52) QtSignal CWorkFlowWidget CWorkFlowWidget_tree customContextMenuRequest "Setup  (2/3)" +
+\i (00:00:52) QtSignal "Design Parameters"
+\i (00:00:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (2/3)" "Design Parameters"
+\i (00:00:56) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (2/3)" "Design Parameters"
+\i (00:00:56) prmed 
+\i (00:00:58) setwindow form.prmedit
+\i (00:00:58) FORM prmedit cancel  
+\i (00:00:58) setwindow pcb
+\i (00:00:58) generaledit 
+\i (00:00:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Setup  (2/3)" Grids
+\i (00:00:59) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Setup  (2/3)" Grids
+\i (00:00:59) define grid 
+\t (00:00:59) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:01:04) setwindow form.grid
+\i (00:01:04) FORM grid display NO 
+\i (00:01:05) FORM grid apply  
+\i (00:01:06) FORM grid done  
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom in 67.6617 379.9008
+\i (00:01:08) trapsize 2962
+\i (00:01:08) zoom out 1 
+\i (00:01:08) setwindow pcb
+\i (00:01:08) zoom out 67.3655 379.6638
+\i (00:01:08) trapsize 5925
+\i (00:01:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Database Preparation  (1/8)"
+\i (00:01:11) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Database Preparation  (1/8)"
+\i (00:01:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Placement  (1/4)"
+\i (00:01:12) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Placement  (1/4)"
+\i (00:01:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Constraints  (1/6)"
+\i (00:01:13) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Constraints  (1/6)"
+\i (00:01:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree selectionChanged "Utilities  (1/8)"
+\i (00:01:15) QtSignal CWorkFlowWidget CWorkFlowWidget_tree clicked "Utilities  (1/8)"
+\i (00:01:50) setwindow form.mini
+\i (00:01:50) FORM mini class 'BOARD GEOMETRY' 
+\i (00:02:25) FORM mini class 'PACKAGE GEOMETRY' 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 158.6080 391.7505
+\i (00:02:27) trapsize 11850
+\i (00:02:27) zoom out 1 
+\i (00:02:27) setwindow pcb
+\i (00:02:27) zoom out 222.5370 363.5458
+\i (00:02:27) trapsize 23699
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in 79.6294 416.1585
+\i (00:02:28) trapsize 11850
+\i (00:02:28) zoom in 1 
+\i (00:02:28) setwindow pcb
+\i (00:02:28) zoom in 103.0916 400.9910
+\i (00:02:28) trapsize 5925
+\i (00:02:29) zoom out 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom out 125.2504 394.8292
+\i (00:02:29) trapsize 11850
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in 177.8628 385.8236
+\i (00:02:29) trapsize 5925
+\i (00:02:29) zoom in 1 
+\i (00:02:29) setwindow pcb
+\i (00:02:29) zoom in 144.9209 391.6299
+\i (00:02:29) trapsize 2962
+\i (00:02:30) zoom in 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom in 142.6103 392.4595
+\i (00:02:30) trapsize 1481
+\i (00:02:30) zoom in 1 
+\i (00:02:30) setwindow pcb
+\i (00:02:30) zoom in 142.4030 392.5484
+\i (00:02:30) trapsize 741
+\i (00:02:58) setwindow form.mini
+\i (00:02:58) FORM mini class 'REF DES' 
+\i (00:03:18) setwindow form.find
+\i (00:03:18) FORM find find_name J1 
+\i (00:03:18) setwindow pcb
+\i (00:03:18) trapsize 8504
+\i (00:03:19) zoom out 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom out 79.2558 370.0026
+\i (00:03:19) trapsize 17008
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in 31.9745 344.7206
+\i (00:03:20) trapsize 8504
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in 46.0909 348.6324
+\i (00:03:20) trapsize 4252
+\i (00:03:20) zoom in 1 
+\i (00:03:20) setwindow pcb
+\i (00:03:20) zoom in 62.3332 359.7725
+\i (00:03:20) trapsize 2126
+\i (00:03:22) roam start
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 32
+\i (00:03:22) roam y 16
+\i (00:03:22) roam x 16
+\i (00:03:22) roam y 32
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 32
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 32
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y 16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam x 16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam x 16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam x 16
+\i (00:03:22) roam y -16
+\i (00:03:22) roam x 16
+\i (00:03:22) roam y -16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x 16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x 16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x 16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x 16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x 16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x 16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x -16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x -16
+\i (00:03:23) roam x -16
+\i (00:03:23) roam y -16
+\i (00:03:23) roam x -16
+\i (00:03:23) roam x -16
+\i (00:03:23) roam end
+\i (00:03:24) zoom in 1 
+\i (00:03:24) setwindow pcb
+\i (00:03:24) zoom in 74.3662 379.4843
+\i (00:03:24) trapsize 1063
+\i (00:03:25) roam start
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -32
+\i (00:03:25) roam y -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -32
+\i (00:03:25) roam x -16
+\i (00:03:25) roam y -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -32
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam y -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -32
+\i (00:03:25) roam x -16
+\i (00:03:25) roam y -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x -32
+\i (00:03:25) roam y -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam y -16
+\i (00:03:25) roam x -16
+\i (00:03:25) roam x 16
+\i (00:03:25) roam x 16
+\i (00:03:25) roam x 16
+\i (00:03:25) roam x 16
+\i (00:03:25) roam x 16
+\i (00:03:25) roam y 16
+\i (00:03:25) roam x 16
+\i (00:03:25) roam y 16
+\i (00:03:25) roam x 16
+\i (00:03:25) roam y 16
+\i (00:03:25) roam y 16
+\i (00:03:25) roam x 16
+\i (00:03:25) roam end
+\i (00:03:26) zoom in 1 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) zoom in 72.2613 376.5921
+\i (00:03:26) trapsize 531
+\i (00:03:26) zoom in 1 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) zoom in 72.2613 376.5921
+\i (00:03:26) trapsize 266
+\i (00:03:26) zoom out 1 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) zoom out 72.2613 376.5762
+\i (00:03:26) trapsize 531
+\i (00:03:26) zoom out 1 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) zoom out 72.2612 376.5442
+\i (00:03:26) trapsize 1063
+\i (00:03:26) zoom out 1 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) zoom out 72.2612 376.5443
+\i (00:03:26) trapsize 2126
+\i (00:03:26) zoom out 1 
+\i (00:03:26) setwindow pcb
+\i (00:03:26) zoom out 72.2613 376.5442
+\i (00:03:26) trapsize 4252
+\i (00:03:29) setwindow form.find
+\i (00:03:29) FORM find all_off  
+\i (00:03:30) FORM find all_on  
+\i (00:03:31) FORM find all_off  
+\i (00:03:36) setwindow pcb
+\i (00:03:36) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:03:44) roam start
+\i (00:03:44) roam x 16
+\i (00:03:44) roam x 32
+\i (00:03:44) roam y 16
+\i (00:03:44) roam x 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam x 16
+\i (00:03:44) roam y 32
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 16
+\i (00:03:44) roam y 48
+\i (00:03:45) roam y 16
+\i (00:03:45) roam y 16
+\i (00:03:45) roam y 16
+\i (00:03:45) roam end
+\i (00:03:45) roam start
+\i (00:03:45) roam x -16
+\i (00:03:45) roam y -16
+\i (00:03:45) roam x -16
+\i (00:03:45) roam y -32
+\i (00:03:46) roam y -16
+\i (00:03:46) roam x -16
+\i (00:03:46) roam y -32
+\i (00:03:46) roam end
+\i (00:03:47) QtSignal ColorVisibilityPane CVPGlobalVisOff clicked
+\i (00:03:55) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged " Placement: TOP"
+\i (00:03:55) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated " Placement: TOP"
+\i (00:03:56) roam start
+\i (00:03:56) roam y -32
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -32
+\i (00:03:56) roam y -32
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -32
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam y -16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam y 16
+\i (00:03:56) roam x 16
+\i (00:03:56) roam end
+\i (00:03:57) zoom out 1 
+\i (00:03:57) setwindow pcb
+\i (00:03:57) zoom out 124.6647 385.5592
+\i (00:03:57) trapsize 8504
+\i (00:03:57) roam start
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 32
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam x 16
+\i (00:03:57) roam y 32
+\i (00:03:57) roam y 32
+\i (00:03:57) roam x 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam x 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 32
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam x 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam x 16
+\i (00:03:57) roam y 32
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:57) roam y 16
+\i (00:03:58) roam y 16
+\i (00:03:58) roam y 16
+\i (00:03:58) roam y 16
+\i (00:03:58) roam x -16
+\i (00:03:58) roam y 16
+\i (00:03:58) roam x -16
+\i (00:03:58) roam x -16
+\i (00:03:58) roam y 16
+\i (00:03:58) roam x -16
+\i (00:03:58) roam x -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam x 16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam x -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:58) roam y -16
+\i (00:03:59) roam end
+\i (00:04:05) QtSignal CVPLayerGrid CVPAllAll_Layers clicked true
+\i (00:04:07) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged Off
+\i (00:04:07) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated Off
+\i (00:04:09) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:04:10) QtSignal CVPLayerGrid CVPBoxAllTop clicked false
+\i (00:04:10) QtSignal CVPLayerGrid CVPBoxAllTop clicked true
+\i (00:04:12) roam start
+\i (00:04:12) roam y -16
+\i (00:04:12) roam y -16
+\i (00:04:12) roam y -16
+\i (00:04:12) roam y -16
+\i (00:04:12) roam y -16
+\i (00:04:12) roam y -16
+\i (00:04:12) roam y -16
+\i (00:04:13) roam end
+\i (00:04:13) zoom in 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom in 109.0179 390.1513
+\i (00:04:13) trapsize 4252
+\i (00:04:13) zoom in 1 
+\i (00:04:13) setwindow pcb
+\i (00:04:13) zoom in 108.9328 390.0663
+\i (00:04:13) trapsize 2126
+\i (00:04:14) roam start
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam y -16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 32
+\i (00:04:14) roam y -16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam y -16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam y -16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam x 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam y 16
+\i (00:04:14) roam end
+\i (00:04:15) QtSignal CVPLayerGrid CVPIcpAllBox clicked true
+\i (00:04:16) roam start
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -32
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 32
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y -16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y 16
+\i (00:04:16) roam x 16
+\i (00:04:16) roam y 16
+\i (00:04:16) roam y 16
+\i (00:04:16) roam y 16
+\i (00:04:16) roam y 16
+\i (00:04:16) roam x -16
+\i (00:04:17) roam end
+\i (00:04:20) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged " Placement: TOP"
+\i (00:04:20) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated " Placement: TOP"
+\i (00:04:20) QtSignal ColorVisibilityPane CVPGlobalVisOn clicked
+\i (00:04:23) QtSignal ColorVisibilityPane CVPQuickViewDropdown CurrentIndexChanged Off
+\i (00:04:23) QtSignal ColorVisibilityPane CVPQuickViewDropdown activated Off
+\i (00:04:23) roam start
+\i (00:04:23) roam x -16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam x -16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam x -32
+\i (00:04:23) roam y 16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam x -32
+\i (00:04:23) roam y 32
+\i (00:04:23) roam x -16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam x -32
+\i (00:04:23) roam y 16
+\i (00:04:23) roam x -16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam x -16
+\i (00:04:23) roam x -16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam y 16
+\i (00:04:23) roam x 16
+\i (00:04:23) roam y 16
+\i (00:04:24) roam x 16
+\i (00:04:24) roam x 16
+\i (00:04:24) roam y 16
+\i (00:04:24) roam y 16
+\i (00:04:24) roam end
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out 147.2420 383.4755
+\i (00:04:24) trapsize 4252
+\i (00:04:24) zoom out 1 
+\i (00:04:24) setwindow pcb
+\i (00:04:24) zoom out 147.0719 383.0504
+\i (00:04:24) trapsize 8504
+\i (00:04:24) roam start
+\i (00:04:24) roam y -16
+\i (00:04:24) roam y -16
+\i (00:04:24) roam y -16
+\i (00:04:24) roam y -16
+\i (00:04:25) roam end
+\i (00:04:25) pick grid 23.9805 379.7767
+\t (00:04:25) last pick:  22.8600 381.0000
+\i (00:04:40) QtSignal CVPLayerGrid CVPIcpAllBox clicked false
+\i (00:04:41) QtSignal CVPLayerGrid CVPIcpAllBox clicked true
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 154.7679 392.1922
+\i (00:04:44) trapsize 4252
+\i (00:04:44) zoom in 1 
+\i (00:04:44) setwindow pcb
+\i (00:04:44) zoom in 154.7680 392.1071
+\i (00:04:44) trapsize 2126
+\i (00:04:45) zoom in 1 
+\i (00:04:45) setwindow pcb
+\i (00:04:45) zoom in 154.6404 391.8095
+\i (00:04:45) trapsize 1063
+\i (00:05:21) color192 
+\t (00:05:21) [17:08:03.003232] periodic Lic check successful
+[17:08:03.003232] Feature usage summary:
+[17:08:03.003232] Allegro_PCB_RF  
+[17:08:03.003232] Allegro_PCB_Harmony_Option  
+[17:08:03.003232] Allegro_Venture_PCB_Designer  
+[17:08:03.003232] PCB_design_studio  
+[17:08:03.003232] Venture_PCB_Schematic  
+[17:08:03.003232] Allegro_Venture_PCB_Designer2  
+[17:08:03.016536]  Allegro_PCB_Productivity_TB  
+[17:08:03.463343]   Allegro_X_Platinum_Layout  
+
+\i (00:05:21) generaledit 
+\i (00:05:35) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (00:05:55) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Constraints region"
+\i (00:05:56) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up"
+\i (00:05:56) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Route keepout"
+\i (00:05:56) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Package keepout"
+\i (00:05:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Route keepin"
+\i (00:05:57) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Areas "Constraints region"
+\i (00:05:58) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Board geometry"
+\i (00:05:58) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Geometry "Package geometry"
+\i (00:05:59) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components
+\i (00:06:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Comp value"
+\i (00:06:00) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Dev type"
+\i (00:06:01) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "Ref des"
+\i (00:06:01) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components Tolerance
+\i (00:06:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Components "User part"
+\i (00:06:02) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Drawing format"
+\i (00:06:03) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Manufacturing
+\i (00:06:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Rigid flex"
+\i (00:06:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged Analysis
+\i (00:06:04) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Bond wire profiles"
+\i (00:06:05) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Surface finishes"
+\i (00:06:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor +
+\i (00:06:07) QtSignal Via
+\i (00:06:07) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor +
+\i (00:06:07) QtSignal Pin
+\i (00:06:08) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor +
+\i (00:06:08) QtSignal Etch
+\i (00:06:08) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor +
+\i (00:06:08) QtSignal "Anti etch"
+\i (00:06:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor +
+\i (00:06:09) QtSignal Boundary
+\i (00:06:09) QtSignal CVDLayerSplitter CVDLayersTree itemSelectionChanged "Stack-Up" Conductor
+\i (00:06:23) QtSignal ColorVisibilityDialog CVDTabs currentChanged Nets
+\i (00:06:31) QtSignal CVDNetSplitter CVDNetsTree itemSelectionChanged XNet
+\i (00:06:37) QtSignal CVDNetSplitter CVDNetsTree itemSelectionChanged "Diff pair"
+\i (00:07:00) QtSignal CVDNetSplitter CVDNetsTree itemSelectionChanged Bus
+\i (00:07:10) QtSignal CVDNetSplitter CVDNetsTree itemSelectionChanged "Match Group"
+\i (00:07:11) QtSignal CVDNetSplitter CVDNetsTree itemSelectionChanged "Net Group"
+\i (00:07:12) QtSignal CVDNetSplitter CVDNetsTree itemSelectionChanged "Match Group"
+\i (00:07:12) QtSignal CVDNetSplitter CVDNetsTree itemSelectionChanged "Net Group"
+\i (00:07:17) QtSignal ColorVisibilityDialog CVDTabs currentChanged Display
+\i (00:07:30) QtSignal ColorVisibilityDialog CVDTabs currentChanged Favorites
+\i (00:07:30) QtSignal ColorVisibilityDialog CVDTabs currentChanged "Visibility Pane"
+\i (00:07:38) QtFillin No
+\i (00:07:40) roam start
+\i (00:07:40) roam x -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -32
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -32
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -32
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x -16
+\i (00:07:40) roam y -16
+\i (00:07:40) roam x 16
+\i (00:07:40) roam x 16
+\i (00:07:40) roam x 16
+\i (00:07:40) roam y 16
+\i (00:07:40) roam x 16
+\i (00:07:40) roam x 16
+\i (00:07:40) roam x 16
+\i (00:07:40) roam y 16
+\i (00:07:41) roam x 16
+\i (00:07:41) roam x 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam x 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam x 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam x 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam x 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam x -16
+\i (00:07:41) roam x -16
+\i (00:07:41) roam y 16
+\i (00:07:41) roam end
+\i (00:07:48) cmgr 
+\i (00:07:49) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:07:49) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Net Class-Class" "CSet assignment matrix"
+\i (00:07:49) QtSignal Frozen_Reflection/Edge_Distortions_WorksheetView3 Frozen_Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Frozen_Reflection/Edge_Distortions_WorksheetView3 Frozen_Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Reflection/Edge_Distortions_WorksheetView3 Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Reflection/Edge_Distortions_WorksheetView3 Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Frozen_Reflection/Edge_Distortions_WorksheetView3 Frozen_Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Frozen_Reflection/Edge_Distortions_WorksheetView3 Frozen_Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal Reflection/Edge_Distortions_WorksheetView3 Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Reflection/Edge_Distortions_WorksheetView3 Reflection/Edge_Distortions_WorksheetView3Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal CCMViewHost3 tableWidget currentChanged sxpn
+\i (00:07:49) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:07:49) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
+\i (00:07:49) QtSignal Frozen_Switch/Settle_Delays_WorksheetView6 Frozen_Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Frozen_Switch/Settle_Delays_WorksheetView6 Frozen_Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Switch/Settle_Delays_WorksheetView6 Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Switch/Settle_Delays_WorksheetView6 Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Frozen_Switch/Settle_Delays_WorksheetView6 Frozen_Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Frozen_Switch/Settle_Delays_WorksheetView6 Frozen_Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal Switch/Settle_Delays_WorksheetView6 Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Switch/Settle_Delays_WorksheetView6 Switch/Settle_Delays_WorksheetView6Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal CCMViewHost6 tableWidget currentChanged sxpn
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:07:49) QtSignal Timing "Switch/Settle Delays"
+\i (00:07:49) QtSignal Frozen_Estimated_Xtalk_WorksheetView19 Frozen_Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Frozen_Estimated_Xtalk_WorksheetView19 Frozen_Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Estimated_Xtalk_WorksheetView19 Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Estimated_Xtalk_WorksheetView19 Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Frozen_Estimated_Xtalk_WorksheetView19 Frozen_Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Frozen_Estimated_Xtalk_WorksheetView19 Frozen_Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal Estimated_Xtalk_WorksheetView19 Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Estimated_Xtalk_WorksheetView19 Estimated_Xtalk_WorksheetView19Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal CCMViewHost19 tableWidget currentChanged sxpn
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:07:49) QtSignal "Estimated Xtalk"
+\i (00:07:49) QtSignal Frozen_Setup/Hold_(Common_Clock)_WorksheetView24 Frozen_Setup/Hold_(Common_Clock)_WorksheetView24Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Frozen_Setup/Hold_(Common_Clock)_WorksheetView24 Frozen_Setup/Hold_(Common_Clock)_WorksheetView24Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Setup/Hold_(Common_Clock)_WorksheetView24 Setup/Hold_(Common_Clock)_WorksheetView24Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Setup/Hold_(Common_Clock)_WorksheetView24 Setup/Hold_(Common_Clock)_WorksheetView24Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Frozen_Setup/Hold_(Common_Clock)_WorksheetView24 Frozen_Setup/Hold_(Common_Clock)_WorksheetView24Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Frozen_Setup/Hold_(Common_Clock)_WorksheetView24 Frozen_Setup/Hold_(Common_Clock)_WorksheetView24Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal Setup/Hold_(Common_Clock)_WorksheetView24 Setup/Hold_(Common_Clock)_WorksheetView24Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Setup/Hold_(Common_Clock)_WorksheetView24 Setup/Hold_(Common_Clock)_WorksheetView24Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal CCMViewHost24 tableWidget currentChanged sxpn
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Timing "Setup/Hold (Common Clock)"
+\i (00:07:49) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:07:49) QtSignal 0 0 1
+\i (00:07:49) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:07:49) QtSignal 1 1 0
+\i (00:07:49) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 0 0 1
+\i (00:07:49) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 1 1 0
+\i (00:07:49) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:07:49) QtSignal 0 1 3
+\i (00:07:49) QtSignal Frozen_Wiring_WorksheetView26 Frozen_Wiring_WorksheetView26Header sectionMoved +
+\i (00:07:49) QtSignal 3 3 1
+\i (00:07:49) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 0 1 3
+\i (00:07:49) QtSignal Wiring_WorksheetView26 Wiring_WorksheetView26Header sectionMoved 3 3 1
+\i (00:07:49) QtSignal CCMViewHost26 tableWidget currentChanged sxpn
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:07:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:07:50) QtSignal Frozen_Creepage_and_Clearance_WorksheetView651 Frozen_Creepage_and_Clearance_WorksheetView651Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Frozen_Creepage_and_Clearance_WorksheetView651 Frozen_Creepage_and_Clearance_WorksheetView651Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal Creepage_and_Clearance_WorksheetView651 Creepage_and_Clearance_WorksheetView651Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Creepage_and_Clearance_WorksheetView651 Creepage_and_Clearance_WorksheetView651Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal Frozen_Creepage_and_Clearance_WorksheetView651 Frozen_Creepage_and_Clearance_WorksheetView651Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Frozen_Creepage_and_Clearance_WorksheetView651 Frozen_Creepage_and_Clearance_WorksheetView651Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal Creepage_and_Clearance_WorksheetView651 Creepage_and_Clearance_WorksheetView651Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Creepage_and_Clearance_WorksheetView651 Creepage_and_Clearance_WorksheetView651Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal CCMViewHost651 tableWidget currentChanged sxpn
+\i (00:07:50) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "High Voltage" "Creepage and Clearance"
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView58 Frozen_All_Layers_WorksheetView58Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal All_Layers_WorksheetView58 All_Layers_WorksheetView58Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal CCMViewHost58 tableWidget currentChanged sxpn
+\i (00:07:50) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:07:50) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:07:50) QtSignal "All Layers"
+\i (00:07:50) QtSignal Frozen_By_Layer_WorksheetView655 Frozen_By_Layer_WorksheetView655Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Frozen_By_Layer_WorksheetView655 Frozen_By_Layer_WorksheetView655Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal By_Layer_WorksheetView655 By_Layer_WorksheetView655Header sectionMoved 0 +
+\i (00:07:50) QtSignal 0 1
+\i (00:07:50) QtSignal By_Layer_WorksheetView655 By_Layer_WorksheetView655Header sectionMoved 1 +
+\i (00:07:50) QtSignal 1 0
+\i (00:07:50) QtSignal Frozen_By_Layer_WorksheetView655 Frozen_By_Layer_WorksheetView655Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Frozen_By_Layer_WorksheetView655 Frozen_By_Layer_WorksheetView655Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal By_Layer_WorksheetView655 By_Layer_WorksheetView655Header sectionMoved 0 +
+\i (00:07:50) QtSignal 1 3
+\i (00:07:50) QtSignal By_Layer_WorksheetView655 By_Layer_WorksheetView655Header sectionMoved 3 +
+\i (00:07:50) QtSignal 3 1
+\i (00:07:50) QtSignal CCMViewHost655 tableWidget currentChanged sxpn
+\i (00:07:50) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:07:50) QtSignal "By Layer"
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal All_Layers_WorksheetView63 All_Layers_WorksheetView63Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView63 All_Layers_WorksheetView63Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView63 Frozen_All_Layers_WorksheetView63Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView63 All_Layers_WorksheetView63Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal All_Layers_WorksheetView63 All_Layers_WorksheetView63Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal CCMViewHost63 tableWidget currentChanged sxpn
+\i (00:07:50) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView70 Frozen_All_Layers_WorksheetView70Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView70 Frozen_All_Layers_WorksheetView70Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal All_Layers_WorksheetView70 All_Layers_WorksheetView70Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView70 All_Layers_WorksheetView70Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView70 Frozen_All_Layers_WorksheetView70Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView70 Frozen_All_Layers_WorksheetView70Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView70 All_Layers_WorksheetView70Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal All_Layers_WorksheetView70 All_Layers_WorksheetView70Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal CCMViewHost70 tableWidget currentChanged sxpn
+\i (00:07:50) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Physical itemSelectionChanged Region "All Layers"
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView167 Frozen_All_Layers_WorksheetView167Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal All_Layers_WorksheetView167 All_Layers_WorksheetView167Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal CCMViewHost167 tableWidget currentChanged sxpn
+\i (00:07:50) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:07:50) QtSignal "All Layers"
+\i (00:07:50) QtSignal Frozen_By_Layer_WorksheetView635 Frozen_By_Layer_WorksheetView635Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Frozen_By_Layer_WorksheetView635 Frozen_By_Layer_WorksheetView635Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal By_Layer_WorksheetView635 By_Layer_WorksheetView635Header sectionMoved 0 +
+\i (00:07:50) QtSignal 0 1
+\i (00:07:50) QtSignal By_Layer_WorksheetView635 By_Layer_WorksheetView635Header sectionMoved 1 +
+\i (00:07:50) QtSignal 1 0
+\i (00:07:50) QtSignal Frozen_By_Layer_WorksheetView635 Frozen_By_Layer_WorksheetView635Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Frozen_By_Layer_WorksheetView635 Frozen_By_Layer_WorksheetView635Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal By_Layer_WorksheetView635 By_Layer_WorksheetView635Header sectionMoved 0 +
+\i (00:07:50) QtSignal 1 3
+\i (00:07:50) QtSignal By_Layer_WorksheetView635 By_Layer_WorksheetView635Header sectionMoved 3 +
+\i (00:07:50) QtSignal 3 1
+\i (00:07:50) QtSignal CCMViewHost635 tableWidget currentChanged sxpn
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:07:50) QtSignal "By Layer"
+\i (00:07:50) QtSignal ILC_widget649 ILC_m_cbCls1649 CurrentIndexChanged Geometries
+\i (00:07:50) QtSignal ILC_widget649 ILC_m_cbCls2649 CurrentIndexChanged Geometries
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Inter Layer" Spacing
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView646 Frozen_All_Layers_WorksheetView646Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView646 Frozen_All_Layers_WorksheetView646Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal All_Layers_WorksheetView646 All_Layers_WorksheetView646Header sectionMoved +
+\i (00:07:50) QtSignal 0 0 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView646 All_Layers_WorksheetView646Header sectionMoved +
+\i (00:07:50) QtSignal 1 1 0
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView646 Frozen_All_Layers_WorksheetView646Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal Frozen_All_Layers_WorksheetView646 Frozen_All_Layers_WorksheetView646Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal All_Layers_WorksheetView646 All_Layers_WorksheetView646Header sectionMoved +
+\i (00:07:50) QtSignal 0 1 3
+\i (00:07:50) QtSignal All_Layers_WorksheetView646 All_Layers_WorksheetView646Header sectionMoved +
+\i (00:07:50) QtSignal 3 3 1
+\i (00:07:50) QtSignal CCMViewHost646 tableWidget currentChanged sxpn
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Region "All Layers"
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:50) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Net Class-Class" "CSet assignment matrix"
+\i (00:07:50) generaledit 
+\i (00:07:53) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:07:53) QtSignal m_domainSelector WS_Physical itemSelectionChanged
+\i (00:07:53) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:07:53) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:07:56) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:07:56) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:07:58) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Assembly
+\i (00:08:00) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged 3D
+\i (00:08:02) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:08:05) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:05) QtSignal "Signal Integrity" "Reflection/Edge Distortions"
+\i (00:08:05) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "Signal Integrity" +
+\i (00:08:05) QtSignal "Reflection/Edge Distortions"
+\i (00:08:06) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:06) QtSignal "Signal Integrity" "Xtalk/SSN"
+\i (00:08:06) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "Signal Integrity" +
+\i (00:08:06) QtSignal "Xtalk/SSN"
+\i (00:08:07) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:07) QtSignal Timing "Switch/Settle Delays"
+\i (00:08:07) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Timing +
+\i (00:08:07) QtSignal "Switch/Settle Delays"
+\i (00:08:07) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:07) QtSignal "All Constraints"
+\i (00:08:08) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "All Constraints"
+\i (00:08:08) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:08) QtSignal Routing
+\i (00:08:08) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing
+\i (00:08:09) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:09) QtSignal Routing
+\i (00:08:09) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing
+\i (00:08:10) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:10) QtSignal Routing Wiring
+\i (00:08:10) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:08:10) QtSignal Wiring
+\i (00:08:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:11) QtSignal Routing Vias
+\i (00:08:11) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:08:11) QtSignal Vias
+\i (00:08:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:11) QtSignal Routing Impedance
+\i (00:08:11) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:08:11) QtSignal Impedance
+\i (00:08:11) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:11) QtSignal Routing "Differential Pair"
+\i (00:08:12) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" Routing +
+\i (00:08:12) QtSignal "Differential Pair"
+\i (00:08:13) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:13) QtSignal "High Voltage"
+\i (00:08:13) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "High Voltage"
+\i (00:08:14) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:08:14) QtSignal "High Voltage"
+\i (00:08:14) QtSignal m_domainSelector WS_Electrical itemClicked "Electrical Constraint Set" "High Voltage"
+\i (00:08:15) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:08:15) QtSignal "Electrical Properties"
+\i (00:08:15) QtSignal m_domainSelector WS_Electrical itemClicked Net "Signal Integrity" "Electrical Properties"
+\i (00:08:26) QtSignal inCell text editingFinished 1000
+\i (00:08:26) QtSignal CCMVTabbediewHost15 CCMViewHost16 keyPressEvent 16777220 0 false 1 ""
+\i (00:08:53) QtSignal Frozen_Reflection_WorksheetView17 Frozen_Reflection_WorksheetView17Header sectionMoved +
+\i (00:08:53) QtSignal 0 0 1
+\i (00:08:53) QtSignal Frozen_Reflection_WorksheetView17 Frozen_Reflection_WorksheetView17Header sectionMoved +
+\i (00:08:53) QtSignal 1 1 0
+\i (00:08:53) QtSignal Reflection_WorksheetView17 Reflection_WorksheetView17Header sectionMoved +
+\i (00:08:53) QtSignal 0 0 1
+\i (00:08:53) QtSignal Reflection_WorksheetView17 Reflection_WorksheetView17Header sectionMoved +
+\i (00:08:53) QtSignal 1 1 0
+\i (00:08:53) QtSignal Frozen_Reflection_WorksheetView17 Frozen_Reflection_WorksheetView17Header sectionMoved +
+\i (00:08:53) QtSignal 0 1 3
+\i (00:08:53) QtSignal Frozen_Reflection_WorksheetView17 Frozen_Reflection_WorksheetView17Header sectionMoved +
+\i (00:08:53) QtSignal 3 3 1
+\i (00:08:53) QtSignal Reflection_WorksheetView17 Reflection_WorksheetView17Header sectionMoved +
+\i (00:08:53) QtSignal 0 1 3
+\i (00:08:53) QtSignal Reflection_WorksheetView17 Reflection_WorksheetView17Header sectionMoved +
+\i (00:08:53) QtSignal 3 3 1
+\i (00:08:53) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:08:53) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:08:53) QtSignal Reflection
+\i (00:08:53) QtSignal CCMViewHost17 tableWidget currentChanged sxpn
+\i (00:09:06) QtSignal Frozen_Edge_Distortions_WorksheetView18 Frozen_Edge_Distortions_WorksheetView18Header sectionMoved +
+\i (00:09:06) QtSignal 0 0 1
+\i (00:09:06) QtSignal Frozen_Edge_Distortions_WorksheetView18 Frozen_Edge_Distortions_WorksheetView18Header sectionMoved +
+\i (00:09:06) QtSignal 1 1 0
+\i (00:09:06) QtSignal Edge_Distortions_WorksheetView18 Edge_Distortions_WorksheetView18Header sectionMoved +
+\i (00:09:06) QtSignal 0 0 1
+\i (00:09:06) QtSignal Edge_Distortions_WorksheetView18 Edge_Distortions_WorksheetView18Header sectionMoved +
+\i (00:09:06) QtSignal 1 1 0
+\i (00:09:06) QtSignal Frozen_Edge_Distortions_WorksheetView18 Frozen_Edge_Distortions_WorksheetView18Header sectionMoved +
+\i (00:09:06) QtSignal 0 1 3
+\i (00:09:06) QtSignal Frozen_Edge_Distortions_WorksheetView18 Frozen_Edge_Distortions_WorksheetView18Header sectionMoved +
+\i (00:09:06) QtSignal 3 3 1
+\i (00:09:06) QtSignal Edge_Distortions_WorksheetView18 Edge_Distortions_WorksheetView18Header sectionMoved +
+\i (00:09:06) QtSignal 0 1 3
+\i (00:09:06) QtSignal Edge_Distortions_WorksheetView18 Edge_Distortions_WorksheetView18Header sectionMoved +
+\i (00:09:06) QtSignal 3 3 1
+\i (00:09:06) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:09:06) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:09:06) QtSignal "Edge Distortions"
+\i (00:09:06) QtSignal CCMViewHost18 tableWidget currentChanged sxpn
+\i (00:09:16) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:09:16) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:09:16) QtSignal "Estimated Xtalk"
+\i (00:09:18) QtSignal Frozen_Simulated_Xtalk_WorksheetView20 Frozen_Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:09:18) QtSignal 0 0 1
+\i (00:09:18) QtSignal Frozen_Simulated_Xtalk_WorksheetView20 Frozen_Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:09:18) QtSignal 1 1 0
+\i (00:09:18) QtSignal Simulated_Xtalk_WorksheetView20 Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:09:18) QtSignal 0 0 1
+\i (00:09:18) QtSignal Simulated_Xtalk_WorksheetView20 Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:09:18) QtSignal 1 1 0
+\i (00:09:18) QtSignal Frozen_Simulated_Xtalk_WorksheetView20 Frozen_Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:09:18) QtSignal 0 1 3
+\i (00:09:18) QtSignal Frozen_Simulated_Xtalk_WorksheetView20 Frozen_Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:09:18) QtSignal 3 3 1
+\i (00:09:18) QtSignal Simulated_Xtalk_WorksheetView20 Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:09:18) QtSignal 0 1 3
+\i (00:09:18) QtSignal Simulated_Xtalk_WorksheetView20 Simulated_Xtalk_WorksheetView20Header sectionMoved +
+\i (00:09:18) QtSignal 3 3 1
+\i (00:09:18) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:09:18) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:09:18) QtSignal "Simulated Xtalk"
+\i (00:09:18) QtSignal CCMViewHost20 tableWidget currentChanged sxpn
+\i (00:09:20) QtSignal Frozen_SSN_WorksheetView21 Frozen_SSN_WorksheetView21Header sectionMoved +
+\i (00:09:20) QtSignal 0 0 1
+\i (00:09:20) QtSignal Frozen_SSN_WorksheetView21 Frozen_SSN_WorksheetView21Header sectionMoved +
+\i (00:09:20) QtSignal 1 1 0
+\i (00:09:20) QtSignal SSN_WorksheetView21 SSN_WorksheetView21Header sectionMoved 0 0 1
+\i (00:09:20) QtSignal SSN_WorksheetView21 SSN_WorksheetView21Header sectionMoved 1 1 0
+\i (00:09:20) QtSignal Frozen_SSN_WorksheetView21 Frozen_SSN_WorksheetView21Header sectionMoved +
+\i (00:09:20) QtSignal 0 1 3
+\i (00:09:20) QtSignal Frozen_SSN_WorksheetView21 Frozen_SSN_WorksheetView21Header sectionMoved +
+\i (00:09:20) QtSignal 3 3 1
+\i (00:09:20) QtSignal SSN_WorksheetView21 SSN_WorksheetView21Header sectionMoved 0 1 3
+\i (00:09:20) QtSignal SSN_WorksheetView21 SSN_WorksheetView21Header sectionMoved 3 3 1
+\i (00:09:20) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:09:20) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "Signal Integrity" +
+\i (00:09:20) QtSignal SSN
+\i (00:09:20) QtSignal CCMViewHost21 tableWidget currentChanged sxpn
+\i (00:09:21) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Timing "Switch/Settle Delays"
+\i (00:09:21) QtSignal m_domainSelector WS_Electrical itemClicked Net Timing "Switch/Settle Delays"
+\i (00:09:23) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Timing "Setup/Hold (Common Clock)"
+\i (00:09:23) QtSignal m_domainSelector WS_Electrical itemClicked Net Timing "Setup/Hold (Common Clock)"
+\i (00:09:25) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:09:25) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Timing "Switch/Settle Delays"
+\i (00:09:26) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:09:26) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Timing "Setup/Hold (Common Clock)"
+\i (00:09:29) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Wiring
+\i (00:09:29) QtSignal m_domainSelector WS_Electrical itemClicked Net Routing Wiring
+\i (00:09:31) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Vias
+\i (00:09:31) QtSignal m_domainSelector WS_Electrical itemClicked Net Routing Vias
+\i (00:09:32) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing Impedance
+\i (00:09:32) QtSignal m_domainSelector WS_Electrical itemClicked Net Routing Impedance
+\i (00:09:34) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing "Min/Max Propagation Delays"
+\i (00:09:34) QtSignal m_domainSelector WS_Electrical itemClicked Net Routing "Min/Max Propagation Delays"
+\i (00:09:35) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net Routing "Differential Pair"
+\i (00:09:35) QtSignal m_domainSelector WS_Electrical itemClicked Net Routing "Differential Pair"
+\i (00:09:36) QtSignal m_domainSelector WS_Electrical itemSelectionChanged Net "High Voltage" "Creepage and Clearance"
+\i (00:09:37) QtSignal m_domainSelector WS_Electrical itemClicked Net "High Voltage" "Creepage and Clearance"
+\i (00:09:40) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Physical
+\i (00:09:41) QtSignal m_domainSelector WS_Physical itemSelectionChanged "Physical Constraint Set" +
+\i (00:09:41) QtSignal "All Layers"
+\i (00:09:41) QtSignal m_domainSelector WS_Physical itemClicked "Physical Constraint Set" "All Layers"
+\i (00:09:53) QtSignal m_domainSelector WS_Physical itemSelectionChanged Net "All Layers"
+\i (00:09:53) QtSignal m_domainSelector WS_Physical itemClicked Net "All Layers"
+\i (00:10:20) QtSignal m_domainSelector WS_Physical itemSelectionChanged Region "All Layers"
+\i (00:10:20) QtSignal m_domainSelector WS_Physical itemClicked Region "All Layers"
+\i (00:10:38) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Spacing
+\i (00:10:45) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:10:45) QtSignal "All Layers"
+\i (00:10:45) QtSignal m_domainSelector WS_Spacing itemClicked "Spacing Constraint Set" "All Layers"
+\i (00:10:46) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Spacing Constraint Set" +
+\i (00:10:46) QtSignal "By Layer"
+\i (00:10:46) QtSignal m_domainSelector WS_Spacing itemClicked "Spacing Constraint Set" "By Layer"
+\i (00:10:47) QtSignal m_domainSelector WS_Spacing itemSelectionChanged Region "All Layers"
+\i (00:10:47) QtSignal m_domainSelector WS_Spacing itemClicked Region "All Layers"
+\i (00:10:49) QtSignal m_domainSelector WS_Spacing itemSelectionChanged
+\i (00:10:49) QtSignal m_domainSelector WS_Spacing itemSelectionChanged "Net Class-Class" "CSet assignment matrix"
+\i (00:10:49) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:10:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:10:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:10:49) QtSignal "All Constraints" "Signal Integrity/Timing/Routing"
+\i (00:10:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:10:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:10:49) QtSignal Routing "Differential Pair"
+\i (00:10:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged
+\i (00:10:49) QtSignal m_domainSelector WS_Electrical itemSelectionChanged "Electrical Constraint Set" +
+\i (00:10:49) QtSignal "High Voltage" "Creepage and Clearance"
+\i (00:10:52) 3dx 
+\t (00:10:52) [17:13:34.003232] periodic Lic check successful
+[17:13:34.003232] Feature usage summary:
+[17:13:34.003232] Allegro_PCB_RF  
+[17:13:34.003232] Allegro_PCB_Harmony_Option  
+[17:13:34.003232] Allegro_Venture_PCB_Designer  
+[17:13:34.003232] PCB_design_studio  
+[17:13:34.003232] Venture_PCB_Schematic  
+[17:13:34.003232] Allegro_Venture_PCB_Designer2  
+[17:13:34.016536]  Allegro_PCB_Productivity_TB  
+[17:13:34.463343]   Allegro_X_Platinum_Layout  
+
+\i (00:10:58) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:10:58) QtSignal Allegro3DWindow Allegro3DWindow deactivate
+\i (00:10:58) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:10:58) updateport VisibilityPane
+\i (00:10:58) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (00:10:58) generaledit 
+\i (00:11:03) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:11:10) QtSignal Allegro3DWindow Allegro3DWindow close
+\i (00:11:10) QtSignal Allegro3DWindow Allegro3DWindow deactivate
+\i (00:11:12) open 
+\e (00:11:12) Do you want to save the changes you made to sxpn.brd?
+\i (00:11:13) fillin yes 
+\i (00:11:38) fillin "G:/Мой диск/Books/(EE_IND) Industrial documentation/Dell Latitude 5480/Dell Latitude 5480  5488 CDM70 LA-E081P LA-E082P R1.1.brd"
+\i (00:11:38) cd "G:/Мой диск/Books/(EE_IND) Industrial documentation/Dell Latitude 5480"
+\t (00:11:38) Loading consmgr.cxt 
+\t (00:11:38) Loading acns_formula.cxt 
+\t (00:11:38) Loading signal.cxt 
+\t (00:11:38) Opening existing design...
+\t (00:11:41) Grids are drawn 40960.00, 40960.00 apart for enhanced viewing.
+\i (00:11:42) trapsize 10592
+\t (00:11:42)     Journal end - Wed Sep  3 17:14:24 2025

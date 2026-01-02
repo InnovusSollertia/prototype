@@ -1,0 +1,95 @@
+\t (00:00:17) allegro 24.1 S002 (4270188) [1/23/2025] Windows SPB 64-bit Edition
+\t (00:00:17)     Journal start - Tue Mar 25 20:14:44 2025
+\t (00:00:17)         Host=DESKTOP-D851ENJ User=Prometheus Pid=21896 CPUs=12
+\t (00:00:17) CmdLine= c:\cadence\spb_24.1\tools\bin\allegro.exe D:\Projects\devices\ST-Link v2\allegro\stlink.brd
+\t (00:00:17) 
+\t (00:00:18) Loading axlcore.cxt 
+\t (00:00:18) Opening existing design...
+\i (00:00:30) fillin yes 
+\d (00:00:31) Design opened: D:/Projects/devices/ST-Link v2/allegro/stlink.brd
+\i (00:00:31) trapsize 11467
+\i (00:00:31) trapsize 11786
+\i (00:00:31) trapsize 11880
+\i (00:00:32) trapsize 13107
+\i (00:00:32) trapsize 13107
+\t (00:00:32) > Sending response DoneOpenBoard
+\t (00:00:32) Loading NV GPU Plugin
+\i (00:00:32) generaledit 
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 131.3301 103.5728
+\i (00:00:33) trapsize 13107
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 131.3301 103.5728
+\i (00:00:33) trapsize 13107
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 131.3301 103.5728
+\i (00:00:33) trapsize 13107
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 131.3301 103.5728
+\i (00:00:33) trapsize 13107
+\i (00:00:33) zoom out 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom out 131.3301 103.5728
+\i (00:00:33) trapsize 13107
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 131.0680 103.3107
+\i (00:00:34) trapsize 6553
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 131.0680 103.1797
+\i (00:00:34) trapsize 3277
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 131.0024 103.0487
+\i (00:00:34) trapsize 1638
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 130.9697 103.0159
+\i (00:00:34) trapsize 819
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 130.9697 103.0159
+\i (00:00:34) trapsize 410
+\i (00:00:34) zoom in 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom in 130.9697 103.0160
+\i (00:00:34) trapsize 205
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 130.9697 103.0160
+\i (00:00:34) trapsize 410
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 130.9616 103.0079
+\i (00:00:34) trapsize 819
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 130.9616 102.9751
+\i (00:00:34) trapsize 1638
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 130.9287 102.8112
+\i (00:00:34) trapsize 3277
+\i (00:00:34) zoom out 1 
+\i (00:00:34) setwindow pcb
+\i (00:00:34) zoom out 130.7978 102.4835
+\i (00:00:34) trapsize 6553
+\i (00:00:37) exit 
+\t (00:00:37) Lic Summary:
+[20:15:04.365000] Cdslmd servers: DESKTOP-D851ENJ
+[20:15:04.365004] Feature usage summary:
+[20:15:04.365004] Allegro_X_Platinum_Layout
+[20:15:04.365004] Allegro_PCB_Productivity_TB
+[20:15:04.365004] Allegro_PCB_RF
+[20:15:04.365004] Allegro_PCB_Harmony_Option
+[20:15:04.365004] Allegro_Venture_PCB_Designer
+[20:15:04.365004] PCB_design_studio
+[20:15:04.365004] Venture_PCB_Schematic
+[20:15:04.365004] Allegro_Venture_PCB_Designer2
+
+\t (00:00:37)     Journal end - Tue Mar 25 20:15:04 2025
